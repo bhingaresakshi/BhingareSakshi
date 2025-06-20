@@ -1,4 +1,4 @@
-## Passionate about Web Development, Cybersecurity, and Innovative Tech Solutions. 
+## ⚡Passionate about Web Development, Cybersecurity, and Innovative Tech Solutions. 
 
 <!--
 **bhingaresakshi/BhingareSakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
